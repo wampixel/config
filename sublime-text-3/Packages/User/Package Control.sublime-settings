@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoCompleteJS",
+		"ClangAutoComplete",
+		"Color Highlighter",
+		"GitGutter",
+		"Jedi - Python autocompletion",
+		"Language - French - Français",
+		"LaTeXing",
+		"LineEndings",
+		"MagicPython",
+		"MakeCommands",
+		"Material Theme",
+		"OCaml Autocompletion",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Status Bar File Size",
+		"Terminal",
+		"Terminality",
+		"Theme - Afterglow",
+		"Theme - Brogrammer",
+		"Theme - Centurion",
+		"Theme - Dark Material"
+	]
+}

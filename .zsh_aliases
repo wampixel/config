@@ -1,0 +1,7 @@
+export TERM="terminator"
+alias ls='ls -l --color=auto'
+alias cdt='cd ~/Cours/L3/'
+alias maj='yaourt -Syua'
+alias make='~/.scripts/make'
+alias lsd='echo "drooooogue !!!!!"'
+alias terminator="terminator -b -m"

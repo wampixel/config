@@ -1,0 +1,29 @@
+{
+	"added_words":
+	[
+		"Nim",
+		"Sprague",
+		"Grundy",
+		"Madrillet",
+		"Chomp"
+	],
+	"auto_complete": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"dictionary": "Packages/Language - French - Français/fr_FR (all variants).dic",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Python",
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"sidebar_no_icon": false,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
