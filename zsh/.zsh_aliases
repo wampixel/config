@@ -1,0 +1,8 @@
+alias ls='ls -l --color=auto'
+alias cdw='cd ~/Cours/M1'
+alias maj='yaourt -Syua'
+alias make='~/.scripts/make'
+alias lsd='echo "drooooogue !!!!!"'
+alias terminator="terminator -b -m"
+alias cdg='cd ~/Git; ls'
+alias copy='~/.scripts/ccp'
