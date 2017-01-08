@@ -1,6 +1,21 @@
 {
 	"folder_history":
 	[
+		"/home/wampixel/Git",
+		"/home/wampixel/Cours/M1",
+		"/srv/http/m1lw",
+		"/srv/http/m1lw/lw-tp9-fichiers",
+		"/srv",
+		"/home/wampixel/Games",
+		"/home/wampixel/Cours",
+		"/home/wampixel/Downloads/Root me",
+		"/home/wampixel/Cours/L3/Stage/Nim-games",
+		"/home/wampixel/Cours/L3/Stage/Nim-games/python_sources",
+		"/home/wampixel/Cours/L3/Stage/Nim-games/Rapport",
+		"/home/wampixel/Cours/L3/Stage/Nim-games/python_sources/simple-nim-game",
+		"/home/wampixel/Cours/L3/Stage/Nim-games/python_sources/Chomp",
+		"/home/wampixel/Cours/L3/Stage/Nim-games/Rapport/text",
+		"/home/wampixel/Github/python_sources/Chomp",
 		"/home/wampixel/Github/python_sources/hackendot",
 		"/home/wampixel/Github/Rapport",
 		"/home/wampixel/Github/python_sources",
@@ -9,8 +24,8 @@
 		"/home/wampixel/Cours/L3/Stage",
 		"/home/wampixel/Cours/L3/Ihm"
 	],
-	"last_version": 3103,
-	"last_window_id": 36,
+	"last_version": 3126,
+	"last_window_id": 135,
 	"log_indexing": false,
 	"settings":
 	{
@@ -22,516 +37,516 @@
 				"selected_items":
 				[
 					[
+						"me",
+						"meta\tTag"
+					],
+					[
+						"expr",
+						"expr2\t(tex_to_mathml.output)"
+					],
+					[
+						"val",
+						"val_fin"
+					],
+					[
+						"exp",
+						"expr"
+					],
+					[
+						"crea",
+						"create_op"
+					],
+					[
+						"create_s",
+						"create_sub"
+					],
+					[
+						"cre",
+						"create_latex_op"
+					],
+					[
+						"op",
+						"op_b"
+					],
+					[
+						"E",
+						"EXIT_FAILURE\t(main.c)"
+					],
+					[
+						"create",
+						"create_racine"
+					],
+					[
+						"OP",
+						"OP_LATEX\t(tex_to_mathml.y)"
+					],
+					[
+						"OPER",
+						"OPERATEUR_LATEX"
+					],
+					[
+						"tex",
+						"tex_to_mathml.h"
+					],
+					[
+						"yyt",
+						"yystype.h"
+					],
+					[
+						"yys",
+						"yystype.h"
+					],
+					[
+						"yy",
+						"yystype.h\t(tex_to_mathml.y)"
+					],
+					[
+						"sizeo",
+						"sizeof\t(calcEEE.y)"
+					],
+					[
+						"var",
+						"VARIABLE"
+					],
+					[
+						"OPE",
+						"OPERATEUR_POW"
+					],
+					[
+						"text",
+						"TextField\tclass"
+					],
+					[
+						"Text",
+						"TextField\tclass"
+					],
+					[
+						"ca",
+						"cat\tstatement"
+					],
+					[
+						"cat_",
+						"cat_name"
+					],
+					[
+						"login",
+						"login_url\t'admin:login'"
+					],
+					[
+						"CharF",
+						"CharField\tclass"
+					],
+					[
+						"Iny",
+						"IntegrityError\tclass"
+					],
+					[
+						"usr",
+						"usrname"
+					],
+					[
+						"htt",
+						"HttpResponseRedirect"
+					],
+					[
+						"Http",
+						"HttpResponse"
+					],
+					[
+						"cmd",
+						"cmd_count"
+					],
+					[
+						"te",
+						"tex_cmd_list"
+					],
+					[
 						"use",
-						"use	Usepackage"
+						"usepackage"
 					],
 					[
-						"Winni",
-						"getWinningStrat"
+						"i",
+						"i\tTag"
 					],
 					[
-						"getP",
-						"getPrefixList	(forest.py)"
+						"line",
+						"line-through"
 					],
 					[
-						"del",
-						"delNodeToRoot	(winningStratUle.py)"
+						"hidd",
+						"hidden_content\t(views.py)"
 					],
 					[
-						"ia",
-						"iaUlehla"
+						"H",
+						"HiddenInput\tclass"
 					],
 					[
-						"get",
-						"getPrefixList"
-					],
-					[
-						"Vl",
-						"ValueError	class"
-					],
-					[
-						"fonctio",
-						"fonctionADefinirUnNomQuiDechire	function"
-					],
-					[
-						"fonct",
-						"fonctionADefinirUnNomQuiDechire	function"
-					],
-					[
-						"colo",
-						"colorNode	function"
-					],
-					[
-						"getPre",
-						"getPrefixList"
-					],
-					[
-						"ASS",
-						"AssertionError	class"
-					],
-					[
-						"fo",
-						"forest"
-					],
-					[
-						"print",
-						"printForest	function"
-					],
-					[
-						"fore",
-						"forestL"
-					],
-					[
-						"forest",
-						"forestL"
-					],
-					[
-						"fores",
-						"forestL	statement"
-					],
-					[
-						"getFo",
-						"getForest	function"
-					],
-					[
-						"is",
-						"isEmptyForest	function"
-					],
-					[
-						"col",
-						"colorNode	function"
-					],
-					[
-						"color",
-						"colorList	statement"
-					],
-					[
-						"getPr",
-						"getPrefixList"
-					],
-					[
-						"succ",
-						"succList"
-					],
-					[
-						"rip",
-						"ripFunction	function"
-					],
-					[
-						"nbR",
-						"nbRW	statement"
-					],
-					[
-						"for",
-						"forestM"
-					],
-					[
-						"white",
-						"whiteNode	statement"
-					],
-					[
-						"lF",
-						"lFunction	function"
-					],
-					[
-						"colorN",
-						"colorNode	function"
-					],
-					[
-						"lfun",
-						"lFunction	function"
-					],
-					[
-						"w",
-						"whiteNode	statement"
-					],
-					[
-						"colorFore",
-						"colorForest	function"
-					],
-					[
-						"colorNo",
-						"colorNodeSucc"
-					],
-					[
-						"getp",
-						"getPredNode"
-					],
-					[
-						"suff",
-						"suffixe	statement"
-					],
-					[
-						"prefi",
-						"prefixe	statement"
-					],
-					[
-						"LPR",
-						"LPrefixe	param"
-					],
-					[
-						"LP",
-						"LPrefixe	param"
-					],
-					[
-						"pre",
-						"prefixe"
-					],
-					[
-						"appe",
-						"append	function"
-					],
-					[
-						"getS",
-						"getSuccNode	function"
-					],
-					[
-						"getPredNod",
-						"getPredNode	function"
-					],
-					[
-						"Color",
-						"colorNode	function"
-					],
-					[
-						"true",
-						"True	keyword"
-					],
-					[
-						"re",
-						"return"
-					],
-					[
-						"co",
-						"color	statement"
-					],
-					[
-						"getPredN",
-						"getPredNode	function"
-					],
-					[
-						"delNodeT",
-						"delNodeToRoot	function"
-					],
-					[
-						"exe",
-						"except"
-					],
-					[
-						"getW",
-						"getWinningStrat	function"
-					],
-					[
-						"Val",
-						"ValueError	class"
-					],
-					[
-						"rais",
-						"raise	keyword"
-					],
-					[
-						"getpre",
-						"getPredNode	(forest.py)"
-					],
-					[
-						"node",
-						"nodeCount"
-					],
-					[
-						"pri",
-						"print	function"
-					],
-					[
-						"prin",
-						"printForest	function"
-					],
-					[
-						"su",
-						"suffixe"
-					],
-					[
-						"pr",
-						"printForest"
-					],
-					[
-						"getForestL",
-						"getForestList	function"
-					],
-					[
-						"pref",
-						"prefixe	statement"
-					],
-					[
-						"dyck",
-						"dyckword	module"
-					],
-					[
-						"st",
-						"stack"
-					],
-					[
-						"getfo",
-						"getForestList"
-					],
-					[
-						"rand",
-						"randomDyckWord"
-					],
-					[
-						"ran",
-						"randomDyckWord"
-					],
-					[
-						"back",
-						"backidxs"
-					],
-					[
-						"app",
-						"append	(forest.py)"
-					],
-					[
-						"front",
-						"frontsizes"
-					],
-					[
-						"id",
-						"idxs"
-					],
-					[
-						"Va",
-						"ValueError	(winningStratUle.py)"
-					],
-					[
-						"V",
-						"ValueError	class"
-					],
-					[
-						"ex",
-						"except	(hackendot.py)"
-					],
-					[
-						"type",
-						"type	class"
-					],
-					[
-						"trouve",
-						"trouvÃ¨re"
-					],
-					[
-						"exhau",
-						"exhaustive"
-					],
-					[
-						"de",
-						"delNode	(hackendot.py)"
-					],
-					[
-						"deln",
-						"delNode	function"
-					],
-					[
-						"tree",
-						"tree	class"
-					],
-					[
-						"after",
-						"afterglow"
-					],
-					[
-						"mate",
-						"material"
-					],
-					[
-						"va",
-						"ValueError	class"
+						"btn",
+						"btn-primary"
 					],
 					[
 						"in",
-						"input"
+						"input\tTag"
 					],
 					[
-						"No",
-						"None	(forest.py)"
+						"funct",
+						"function"
 					],
 					[
-						"ra",
-						"random	(nim.py)"
+						"edi",
+						"contenteditable\tAttr"
 					],
 					[
-						"__",
-						"__init__"
+						"st",
+						"style\tTag"
 					],
 					[
-						"sl",
-						"self"
+						"form",
+						"form-control"
 					],
 					[
-						"sort",
-						"sort	function"
+						"user",
+						"user_article"
 					],
 					[
-						"so",
-						"sort	function"
+						"httpRe",
+						"HttpResponseRedirect\tclass"
 					],
 					[
-						"A",
-						"AssertionError	class"
+						"Htt",
+						"Http404\tclass"
 					],
 					[
-						"ass",
-						"assert"
+						"get_o",
+						"get_object_or_404\tfunction"
+					],
+					[
+						"view",
+						"views"
+					],
+					[
+						"object",
+						"ObjectDoesNotExist\tclass"
+					],
+					[
+						"ext",
+						"exceptions\tmodule"
+					],
+					[
+						"cate",
+						"categories"
+					],
+					[
+						"categorie",
+						"categories"
+					],
+					[
+						"categr",
+						"categories_id"
+					],
+					[
+						"date",
+						"date_pub"
+					],
+					[
+						"cl",
+						"cleaned_data"
+					],
+					[
+						"cle",
+						"cleaned_data"
+					],
+					[
+						"http",
+						"HttpResponseRedirect\tclass"
+					],
+					[
+						"ess",
+						"essai\tclass"
+					],
+					[
+						"col",
+						"col-lg-5\t(index.html)"
+					],
+					[
+						"us",
+						"username"
+					],
+					[
+						"e",
+						"em\tTag"
+					],
+					[
+						"id",
+						"id_art"
 					],
 					[
 						"r",
-						"randrange"
+						"r_cat\tstatement"
 					],
 					[
-						"ri",
-						"raise	keyword"
+						"catego",
+						"categorie\t(views.py)"
 					],
 					[
-						"Assert",
-						"AssertionError	class"
+						"r_art",
+						"r_art.title"
 					],
 					[
-						"mont",
-						"montant"
+						"cat",
+						"categories\t(views.py)"
 					],
 					[
-						"nim",
-						"nim_sum"
+						"str",
+						"str_s"
 					],
 					[
-						"p",
-						"pierre"
+						"F",
+						"False\tinstance"
 					],
 					[
-						"L",
-						"LDLIBS"
+						"art",
+						"art_id"
 					],
 					[
-						"send",
-						"tftp_send_OACK_wait_ACK"
+						"pri",
+						"primary_key"
 					],
 					[
-						"DATA",
-						"tftp_send_DATA_wait_ACK"
+						"Au",
+						"AutoField\tclass"
 					],
 					[
-						"wait",
-						"tftp_wait_ACK_with_timeout"
+						"default",
+						"default=0"
 					],
 					[
-						"OACK",
-						"tftp_send_OACK"
+						"abs",
+						"abstract\t(models.py)"
 					],
 					[
-						"se",
-						"tftp_send_DATA_wait_ACK"
+						"categ",
+						"categ\tstatement"
 					],
 					[
-						"sendRR",
-						"tftp_send_RRQ_opt"
+						"frame",
+						"frametitle"
 					],
 					[
-						"sen",
-						"tftp_send_RRQ_opt"
+						"cent",
+						"centering"
 					],
 					[
-						"recv",
-						"socketUDP_recvFrom"
+						"uti",
+						"utils\t(models.py)"
+					],
+					[
+						"djang",
+						"django\tmodule"
+					],
+					[
+						"arti",
+						"articles"
+					],
+					[
+						"dr",
+						"dropdown-item\t(base.html)"
+					],
+					[
+						"drop",
+						"dropdown-item"
+					],
+					[
+						"dro",
+						"dropdown-menu\t(base.html)"
+					],
+					[
+						"class",
+						"class"
+					],
+					[
+						"Ex",
+						"except\tkeyword"
+					],
+					[
+						"exe",
+						"except\tkeyword"
+					],
+					[
+						"model",
+						"models\tmodule"
+					],
+					[
+						"article",
+						"article\tmodule"
+					],
+					[
+						"open",
+						"open_automatically"
+					],
+					[
+						"si",
+						"side_bar_files_open_with"
+					],
+					[
+						"local",
+						"localhost"
+					],
+					[
+						"For",
+						"ForeignKey\tclass"
+					],
+					[
+						"Te",
+						"TextInput"
+					],
+					[
+						"elem",
+						"elem_symb"
+					],
+					[
+						"li",
+						"liste_chaine.h"
+					],
+					[
+						"hea",
+						"head_symb\t(liste_chaine.h)"
+					],
+					[
+						"he",
+						"head_symb"
+					],
+					[
+						"sym",
+						"symb"
+					],
+					[
+						"conn",
+						"connect\tfunction"
+					],
+					[
+						"SOCK",
+						"SOCK_STREAM\tinstance"
 					],
 					[
 						"sock",
-						"socketUDP_bound"
+						"socket\tmodule"
 					],
 					[
-						"socket",
-						"socketUDP_bound"
+						"so",
+						"socket\tmodule"
 					],
 					[
-						"soc",
-						"sockaddr_to_adresseInternet"
+						"get",
+						"get_commune\t(base.html)"
 					],
 					[
-						"adr",
-						"adresseInternet"
+						"h",
+						"header\tTag"
 					],
 					[
-						"req",
-						"req_client"
+						"sub",
+						"submit"
 					],
 					[
-						"size",
-						"size_t"
+						"head",
+						"header\tTag"
 					],
 					[
-						"blk",
-						"blkSize"
+						"di",
+						"div\tTag"
 					],
 					[
-						"no",
-						"noctets"
+						"center",
+						"center-block"
 					],
 					[
-						"n",
-						"noctets"
+						"list",
+						"list-style-type"
 					],
 					[
-						"bl",
-						"blkSize"
+						"l",
+						"link\tTag"
 					],
 					[
-						"opt",
-						"optarg"
+						"bakc",
+						"background-color"
 					],
 					[
-						"tft",
-						"tftp_make_oack"
+						"back",
+						"background-color"
 					],
 					[
-						"lib",
-						"libSocketUDP"
+						"bord",
+						"border-collapse"
 					],
 					[
-						"a",
-						"adresseInternet_to_sockAddr"
+						"max",
+						"max_length"
 					],
 					[
-						"adress",
-						"adresseInternet"
+						"models",
+						"models\tmodule"
 					],
 					[
-						"ad",
-						"adresseInternet_getinfo"
+						"re",
+						"redirect\tfunction"
 					],
 					[
-						"geoco",
-						"geocodeFunc"
+						"next",
+						"next_page"
 					],
 					[
-						"geo",
-						"geocodeAddr"
+						"djan",
+						"django.contrib.auth"
 					],
 					[
-						"coor",
-						"coordC"
+						"user_",
+						"user_id\t(urls.py)"
 					],
 					[
-						"resul",
-						"result"
+						"con",
+						"contrib\tmodule"
 					],
 					[
-						"bac",
-						"background-image"
+						"pos",
+						"pos_i\tstatement"
 					],
 					[
-						"d",
-						"div	Tag"
+						"u",
+						"ul\tTag"
 					],
 					[
-						"addr",
-						"addr2"
+						"url",
+						"urlpatterns\t(urls.py)"
+					],
+					[
+						"auth",
+						"auth_views\tmodule"
+					],
+					[
+						"auth_",
+						"auth_views\timport"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"p",
+						"PasswordInput\tclass"
+					],
+					[
+						"forms",
+						"forms\tmodule"
+					],
+					[
+						"adm",
+						"admin\tmodule"
+					],
+					[
+						"M",
+						"method\tAttr"
 					]
 				]
 			},
@@ -550,6 +565,22 @@
 					],
 					[
 						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
 						""
 					]
 				],
@@ -590,11 +621,55 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "",
+				"last_filter": "m",
 				"selected_items":
 				[
 					[
-						"pa",
+						"m",
+						"View: Toggle Menu"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"snipp",
+						"Set Syntax: AppleScript"
+					],
+					[
+						"latex",
+						"Set Syntax: BibLaTeX"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instla",
+						"Package Control: Install Package"
+					],
+					[
+						"latextools",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"lis",
 						"Package Control: List Packages"
 					],
 					[
@@ -602,20 +677,168 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"push",
-						"Git: Push"
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"make",
+						"Makefile (Tp01): make clean"
+					],
+					[
+						"term",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"new fo",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"new",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"vie",
+						"View: Toggle Menu"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"colorpi",
+						"Color Picker: Insert Color"
+					],
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"k",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"alig",
+						"Preferences: Alignment File Settings – Default"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"pu",
-						"Git: Push"
+						"col",
+						"Color Picker"
+					],
+					[
+						"instl",
+						"LaTeXing: Install License"
 					],
 					[
 						"co",
-						"Git: Commit"
+						"Color Picker"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"package ",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"li",
+						"Package Control: List Packages"
+					],
+					[
+						"  v",
+						"View: Toggle Menu"
+					],
+					[
+						"v",
+						"View: Toggle Menu"
+					],
+					[
+						"toogl",
+						"LaTeXing: Toggle Offline Mode"
+					],
+					[
+						"insl",
+						"LaTeXing: Install License"
+					],
+					[
+						"inst\t",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"insl\t",
+						"LaTeXing: Install License"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"bar",
+						"View: Toggle Status Bar"
+					],
+					[
+						"Snippet: Bibtex ",
+						"Snippet: BibTeX Book"
+					],
+					[
+						"Snippet: Bibtex art",
+						"Snippet: BibTeX Article"
+					],
+					[
+						"folder",
+						"Terminal: Open in project folder"
+					],
+					[
+						"meu",
+						"View: Toggle Menu"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"pu",
+						"Git: Push"
 					],
 					[
 						"ad",
@@ -624,10 +847,6 @@
 					[
 						"add",
 						"Git: Add All"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"comm",
@@ -642,32 +861,12 @@
 						"Git: Commit"
 					],
 					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"menu",
-						"View: Toggle Menu"
-					],
-					[
 						"gitG",
 						"GitGutter: Show Comparing Against"
 					],
 					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
-					],
-					[
 						"git",
 						"GitGutter: Compare Against Branch"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"gitcutt",
@@ -686,32 +885,12 @@
 						"Git: Init"
 					],
 					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
 						"status",
 						"Git: Status"
 					],
 					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"men",
-						"View: Toggle Menu"
-					],
-					[
-						"me",
-						"View: Toggle Menu"
-					],
-					[
 						"up",
 						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"pack",
-						"Package Control: List Packages"
 					],
 					[
 						"late",
@@ -734,21 +913,20 @@
 						"Set Syntax: Makefile"
 					],
 					[
-						"Snippet: ",
-						"Snippet: Description"
-					],
-					[
 						"",
 						"Set Syntax: LaTeX"
 					]
 				],
-				"width": 541.0
+				"width": 539.0
 			},
 			"console":
 			{
 				"height": 211.0,
 				"history":
 				[
+					"exit",
+					"ls",
+					"quit()",
 					"import os; os.system('git --version')",
 					"os.getenv('PATH')",
 					"print os.getenv('PATH')",
@@ -795,142 +973,142 @@
 			},
 			"file_history":
 			[
-				"/home/wampixel/Github/Rapport/text/concl.tex",
+				"/home/wampixel/Cours/M1/Compilation/FlorianSoudayTristanRodriguez/tex_to_mathml.lex",
+				"/home/wampixel/Cours/M1/Compilation/FlorianSoudayTristanRodriguez/tex_to_mathml.y",
+				"/home/wampixel/Cours/M1/Compilation/FlorianSoudayTristanRodriguez/default.html",
+				"/home/wampixel/Cours/M1/essai.tex",
+				"/home/wampixel/FlorianSoudayTristanRodriguez/Readme.md",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.output",
+				"/home/wampixel/Cours/M1/Compilation/projet/essai.txt",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.lex",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.y",
+				"/home/wampixel/Cours/M1/Compilation/projet/default.html",
+				"/home/wampixel/Cours/M1/Langage_Web/Tp/Tp03/lw-tp3-fichiers/toutfaux.xhtml",
+				"/home/wampixel/Cours/M1/Compilation/essai.html",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.h",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/Makefile",
+				"/home/wampixel/Cours/M1/Compilation/projet/Makefile",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/calcEEE.y",
+				"/home/wampixel/Cours/M1/essai.latex",
+				"/home/wampixel/Cours/L2/Algo II/projet/main.c",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/calc.y",
+				"/home/wampixel/Cours/L2/Algo II/projet/hashtbl.c",
+				"/home/wampixel/Cours/M1/Compilation/projet/essai.html",
+				"/home/wampixel/Cours/L2/Algo II/projet/main.h",
+				"/home/wampixel/Cours/L3/Systeme d'exploitation/Tp/Tp_03/main.c",
+				"/home/wampixel/Cours/L3/Systeme d'exploitation/Projet/Code source/analyse.c",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/calcEEE.y",
+				"/home/wampixel/Cours/M1/Compilation/projet/calcEEE.yy.h",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/yystype.h",
+				"/home/wampixel/Cours/L3/Systeme d'exploitation/Projet/Code source/analyse.h",
+				"/home/wampixel/Cours/M1/Compilation/projet/yystype.h.gch",
+				"/home/wampixel/Cours/M1/Compilation/projet/yystype.h",
+				"/home/wampixel/.cache/.fr-HNuves/Makefile",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/calcEEE.lex",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/liste_chaine.h",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/calcEEE.lex",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/lex.yy.c",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/calcEEE.output",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/calcEEE",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/Makefile",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/rapport.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/views.py",
+				"/home/wampixel/Souday_Rodriguez/urls.py",
+				"/home/wampixel/Souday_Rodriguez/sciMS/article/forms.py",
+				"/home/wampixel/Souday_Rodriguez/sciMS/sciMS/urls.py",
+				"/home/wampixel/Souday_Rodriguez/sciMS/q.log",
+				"/home/wampixel/Souday_Rodriguez/rapport/README.md",
+				"/home/wampixel/Souday_Rodriguez/sciMS/article/views.py",
+				"/home/wampixel/Souday_Rodriguez/sciMS/article/static/article/js/tableOfContent.js",
+				"/home/wampixel/Souday_Rodriguez/sciMS/article/static/article/js/wysiwyg.js",
+				"/home/wampixel/Downloads/dep.tex",
+				"/home/wampixel/Souday_Rodriguez/sciMS/sciMS/settings.py",
+				"/home/wampixel/Souday_Rodriguez/rapport/text/dep.tex",
+				"/home/wampixel/.cache/.fr-KYjaD5/Souday_Rodriguez/sciMS/sciMS/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/forms.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/static/article/js/wysiwyg.js",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/create_categorie.html",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/tmp/sciMS/sciMS/urls.py",
+				"/home/wampixel/sciMS/rapport/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/create_article.html",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/sciMS/sciMS/settings.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/sciMS/settings.py",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/sciMS/article/models.py",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/sciMS/sciMS/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/tmp/sciMS/sciMS/settings.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/intro.tex",
+				"/home/wampixel/sciMS/rapport/text/travail.tex",
+				"/home/wampixel/sciMS/rapport/rapport.tex",
+				"/home/wampixel/sciMS/rapport/text/dep.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/dep.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/sciMS/sciMS/settings.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/sciMS/wsgi.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/base.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/article_list.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/travail.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/apport.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/concl.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/index.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/models.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/views.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/models.py",
+				"/home/wampixel/Cours/M1/Compilation/Tp03/exo8.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp01/exo3.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp01/exo2.l",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/art_user.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/read_art.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/edit_article.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/login.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/registration.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/static/article/js/tableOfContent.js",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp02/exo5.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp02/exo4.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp03/exo7.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp04/exo10.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/calc.lex",
+				"/home/wampixel/Cours/M1/Compilation/Tp02/exo6.l",
+				"/home/wampixel/Downloads/sciMS.sql",
 				"/home/wampixel/Cours/L3/Projet annuel/rapport/rapport.tex",
-				"/home/wampixel/Cours/L3/Projet annuel/rapport/rapport.bib",
-				"/home/wampixel/Github/Rapport/rapport.bib",
-				"/home/wampixel/.config/sublime-text-3/Packages/Terminal/Terminal.py",
-				"/home/wampixel/Cours/L3/Projet annuel/rapport/univ-projet.cls",
-				"/home/wampixel/Github/Rapport/essai.tex",
-				"/home/wampixel/test.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/Nim/nim.py",
-				"/home/wampixel/Github/python_sources/hackendot/hackendot.py",
-				"/home/wampixel/truc.py",
-				"/home/wampixel/Github/python_sources/hackendot/truc",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/GitGutter.sublime-settings",
-				"/home/wampixel/Github/python_sources/hackendot/winningStratUle.py",
-				"/home/wampixel/Github/python_sources/.git/config",
-				"/home/wampixel/Github/python_sources/hackendot/dyckword.py",
-				"/home/wampixel/Github/python_sources/hackendot/winningStratExh.py",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/winningStratExh.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/winningStratUle.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/forest.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/treetest.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/tree.py",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/tests/gfRandom.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/hackendot.log",
-				"/home/wampixel/.config/sublime-text-3/Packages/Terminality/Default (Linux).sublime-keymap",
-				"/home/wampixel/.cache/.fr-wqhIrU/README.md",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/StatusBarWeather.sublime-settings",
-				"/home/wampixel/.config/sublime-text-3/Packages/Status Bar Weather/StatusBarWeather.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/normastic/confBedon",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/hackendot.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/Nim/ia.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/winningStrat.py",
-				"/home/wampixel/Downloads/arbres.py",
-				"/home/wampixel/Cours/L3/Stage/rapport/rapport.tex",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/StatusBarFileSize.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot2.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot2.log",
-				"/home/wampixel/Cours/L3/Stage/python_sources/forest.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/tree.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/nim.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot.py",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/ia.py",
-				"/home/wampixel/Cours/L3/Algo des Graphes/Projet/src_ulehla/arbo.c",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/Terminality.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/forest.dot",
-				"/home/wampixel/Downloads/python-graph-master/dot/distribute_setup.py",
-				"/home/wampixel/Downloads/pydot3k-1.0.17/setup.py",
-				"/home/wampixel/Downloads/pydot3-1.0.8/setup.cfg",
-				"/home/wampixel/Downloads/pydot3-1.0.8/PKG-INFO",
-				"/home/wampixel/Downloads/pydot3-1.0.8/MANIFEST.in",
-				"/home/wampixel/Cours/L3/Stage/sources.txt",
-				"/home/wampixel/Cours/L3/Stage/python_sources/zcasino.py",
-				"/home/wampixel/Documents/divers/modules sublime-text3",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/MagicPython.sublime-settings",
-				"/home/wampixel/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/wampixel/testpy/test.py",
-				"/home/wampixel/RaspPi/rapport final/rapport.tex",
-				"/home/wampixel/Cours/L3/Stage/python_sources/test.c",
-				"/home/wampixel/Cours/L3/Stage/python_sources/test.tex",
-				"/home/wampixel/Cours/L3/Stage/test.tex",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/LaTeX Beamer.sublime-settings",
-				"/home/wampixel/Downloads/Thumbs.db",
-				"/home/wampixel/rapport final/rapport.tex",
-				"/home/wampixel/rapport final/rapport.pdf",
-				"/srv/http/essai/gogo.php",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/tftp.h",
-				"/srv/http/pweb/php/destroyH.php",
-				"/srv/http/pweb/php/deconnect.php",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/bsocket.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/bsocket.h",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/client.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/client_1.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/client_2.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/client_2b.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/man.txt",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/serveur.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/serveur_1.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/socketUDP.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/tftp.c",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/static/index/css/base.css",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/README.md",
+				"/home/wampixel/Cours/L3/Stage/Nim-games/Rapport/text/intro.tex",
+				"/home/wampixel/Cours/L3/Stage/Nim-games/Rapport/rapport.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/sciMS/pass.txt",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/Exemple d'article.pdf",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/static/index/js/wysiwyg.js",
+				"/home/wampixel/Cours/M1/Langage_Web/wysiwyg.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/sciMS/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/categorie_list.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/index.html",
+				"/home/wampixel/Cours/M1/Gestion_Entreprise/revision.txt",
+				"/home/wampixel/ajout_STB",
+				"/home/wampixel/Cours/M1/cr STB",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/forms.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/search.html",
+				"/home/wampixel/.weechat/python/notification_center.py",
+				"/home/wampixel/.weechat/python/autoload/notification_center.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/tests.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/admin.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/admin.py",
+				"/home/wampixel/Cours/M1/Gestion_Entreprise/Tesla/presentation.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/Cours/ch0-Introduction.pdf",
+				"/home/wampixel/Cours/M1/Compilation/Tp03/Makefile",
 				"/home/wampixel/Cours/L3/Infographie/Sokoban/sokoban.c",
-				"/home/wampixel/Cours/L3/Infographie/Tp01/sokoban.c",
-				"/home/wampixel/Cours/L3/Infographie/Tp01/Rapport.txt",
-				"/home/wampixel/Cours/L3/Infographie/Tp01/makefile",
-				"/home/wampixel/Cours/L3/Infographie/Projet/Makefile",
-				"/home/wampixel/Cours/L3/Infographie/Projet/moteur.h",
-				"/home/wampixel/Cours/L3/Infographie/Projet/moteur.c",
-				"/home/wampixel/Cours/L3/Infographie/Projet/draw.h",
-				"/home/wampixel/Cours/L3/Infographie/Projet/draw.c",
-				"/home/wampixel/Cours/L3/Infographie/Tp01/essai.c",
-				"/home/wampixel/Downloads/Infographie/Projet/Makefile",
-				"/home/wampixel/Cours/L3/Infographie/Projet/main.h",
-				"/home/wampixel/Cours/L3/Infographie/Projet/main.c",
-				"/home/wampixel/Cours/L3/Infographie/Projet/opengl.c",
-				"/home/wampixel/Cours/L3/Infographie/Projet/opengl.h",
-				"/home/wampixel/Cours/L3/Infographie/Projet/constantes.h",
-				"/srv/http/pweb/Rapport/rapport.tex",
-				"/home/wampixel/Cours/L3/Infographie/Projet/init.c",
-				"/home/wampixel/Cours/L3/Infographie/Projet/init.h",
-				"/srv/http/pweb/Rapport/makefile",
-				"/home/wampixel/Downloads/rapportweb.tex",
-				"/home/wampixel/Cours/L3/Reseau/Tp6/laddrin.h",
-				"/home/wampixel/reseau/tftp.h",
-				"/home/wampixel/reseau/client.c",
-				"/home/wampixel/reseau/serveur.c",
-				"/home/wampixel/Desktop/rapport final/rapport.tex",
-				"/home/wampixel/reseau/tftp.c",
-				"/home/wampixel/Downloads/rapport.tex",
-				"/home/wampixel/reseau/bsocket.h",
-				"/home/wampixel/reseau/socketUDP.h",
-				"/home/wampixel/reseau/socketUDP.c",
-				"/home/wampixel/reseau/client_1.c",
-				"/home/wampixel/reseau/bsocket.c",
-				"/home/wampixel/RaspPi/rapport_tex/slides.tex",
-				"/home/wampixel/reseau/essai.c",
-				"/home/wampixel/Cours/L3/Reseau/Tp3/client.c",
-				"/home/wampixel/Cours/L3/Reseau/Tp3/main.c",
-				"/home/wampixel/reseau/client_3.c",
-				"/home/wampixel/Cours/L3/Projet annuel/rapport/rapport_projet.bib",
-				"/home/wampixel/reseau/ici",
-				"/home/wampixel/reseau/test.txt",
-				"/home/wampixel/reseau/coucoucou.txt",
-				"/home/wampixel/RaspPi/rapport_tex/rapport.tex",
-				"/run/media/wampixel/HRM_CCSNA_X/rapport_tex/rapport.tex",
-				"/home/wampixel/RaspPi/rapport_tex/rapport_projet.tex"
+				"/home/wampixel/.conkyrc/information2",
+				"/home/wampixel/Cours/M1/Cryptographie/scripts/cypherCesar.py",
+				"/home/wampixel/Cours/M1/Langage_Web/Tp/Tp07/lw-tp7/lw-tp7-fichiers/jslab/jslab.css"
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 104.0,
 				"where_history":
 				[
 				]
@@ -940,134 +1118,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					")\")",
-					"ff",
-					"print",
-					"i",
-					"        i = -1\n        for f in forestL :\n            print(type(f))\n            if self.ripFunction(i) == 1 :\n                i = forestL.index(f)\n\n        if i == -1 :\n            return self.forest[0]",
-					"forestM",
-					"forestC",
-					"i",
-					"]) ",
-					"pre",
-					"suf",
+					"expr",
+					"op",
+					"TODO",
+					"fact",
+					"exprp",
+					"fact",
+					"exprp",
+					"fact",
+					"expr2",
+					"gogo",
+					"fact",
+					"var",
+					"expr2",
+					"fact",
+					"expr",
+					"%s",
+					"op",
+					"expr2",
+					");}\n",
+					";\n",
+					"qwertyuiopasdfghjklzxcvnm",
+					"sizeof",
+					"ud",
+					"sizeof",
+					"fact",
+					"tst",
+					"yys",
+					"yyst",
+					"s",
+					"$1+$3",
+					"syntax error",
+					"\"\n",
+					"°",
+					"3\\°",
+					"\\°",
+					"&",
 					" ",
-					"||",
-					"#!/",
-					"TOR",
-					"print",
-					"context",
-					"Context",
-					"context",
-					"SDL_GL_CreateContext",
-					"context",
-					"SDL_GL_CreateContext",
-					"context",
+					"smallbreak",
+					"\\textasciicircum",
+					"create_article",
+					"staff_member_required",
+					"q(",
+					"section",
+					"Introduction",
+					"span",
+					"button",
+					"</button>",
+					"HiddenInput",
+					"textarea",
+					"< ",
+					"div",
+					"textarea",
+					"div",
+					"//",
+					"redirect",
+					"utilisateur",
+					"></",
+					"cat__contains",
+					"TODO",
+					"keyword",
+					"articles",
+					"article",
+					"categories",
+					"PaloAlto",
+					"cat",
+					"verifications",
+					"create_article",
+					"symb",
+					"liste_chaine.h",
+					"val",
+					"$$",
+					" $$",
+					"fonction",
+					"header",
+					"<button>",
+					"lg",
+					"]",
+					"ContactForm",
+					"create_user",
+					"class=\"content\"",
+					"a",
+					"categorie_id",
+					"{%",
+					"LOGIN_REDIRECT_URL",
+					"settings.LOGIN_REDIRECT_URL",
+					"),\n",
+					"AUTHENTICATION_BACKENDS",
+					"QVNDLChzZWxlY3QgKGNhc2UgZmllbGQoY29uY2F0KHN1YnN0cmluZyhiaW4oYXNjaWkoc3Vic3RyaW5nKHBhc3N3b3JkLDEsMSkpKSw3LDEpKSxjaGFyKDQ4KSxjaGFyKDQ5KSkgd2hlbiAxIHRoZW4gc2xlZXAoMikgd2hlbiAyIHRoZW4gc2xlZXAoNCkgIGVuZCkgZnJvbSBtZW1icmVzIHdoZXJlIGlkPTEp",
+					"ET /admin/?action=membres&order=QVNDLChzZWxlY3QgKGNhc2UgZmllbGQoY29uY2F0KHN1YnN0cmluZyhiaW4oYXNjaWkoc3Vic3RyaW5nKHBhc3N3b3JkLDEsMSkpKSwxLDEpLHN1YnN0cmluZyhiaW4oYXNjaWkoc3Vic3RyaW5nKHBhc3N3b3JkLDEsMSkpKSwyLDEpKSxjb25jYXQoY2hhcig0OCksY2hhcig0OCkpLGNvbmNhdChjaGFyKDQ4KSxjaGFyKDQ5KSksY29uY2F0KGNoYXIoNDkpLGNoYXIoNDgpKSxjb25jYXQoY2hhcig0OSksY2hhcig0OSkpKXdoZW4gMSB0aGVuIFRSVUUgd2hlbiAyIHRoZW4gc2xlZXAoMikgd2hlbiAzIHRoZW4gc2xlZXAoNCkgd2hlbiA0IHRoZW4gc2xlZXAoNikgZW5kKSBmcm9tIG1lbWJyZXMgd2hlcmUgaWQ9MSk%3D HTTP/1.1",
+					"action=membres",
+					"SeaMonkey",
+					"list",
+					"html",
+					"news",
+					"main_page",
+					"static",
+					"cm",
+					"analyse",
+					"chiffr",
+					"message",
 					"()",
-					"NEAR",
-					"lSDL2_image",
-					"caisseHasMove",
-					"corps",
-					";\n",
-					"draw",
-					");\n",
-					"positionneObs",
-					"positionneObs	",
-					"pos",
-					"movePlayer",
-					"Null",
-					" en cas d'erreur",
-					"tutoriel",
-					"cRes",
-					"cite",
-					"[]",
-					"\\end{itemize}",
-					"			\\end{itemize}\n",
-					"\\end{itemize}",
-					"pérIPhérique",
-					"cite",
-					"kikou",
-					"TFTP_SIZE",
-					"tftp_get_nblocs_noctets",
-					"OACK",
-					"TFTP_SIZE",
-					"size",
-					"noctets",
-					"TFTP_SIZE",
-					"caisseHasMove",
-					"size",
-					"255",
-					"textt",
-					"textttt",
-					"<paquet>",
-					"date_create",
-					"CFLAGS",
-					"$(librairie)",
-					"SQUID",
-					"<div",
-					"map_canvas",
-					"AdresseInternet",
-					"adresseInternet",
-					"AdresseInternet",
-					"AdresseInternet_getinfo",
-					"_",
-					"robot",
-					"look",
-					"map_canvas",
-					"_POST",
-					"tab",
-					":e",
-					":b",
-					"'2016-03-01' ",
-					"date",
-					"res",
-					"rechercheH",
-					"\"",
-					"dialog",
-					"draw_cube",
-					"20",
-					"gluNewQuadric",
-					"break",
-					";\n",
-					"0",
+					"cypher",
+					"words",
+					"possibility",
+					"'~'",
+					"' '",
+					"mchiffr",
+					"desktop",
+					"test3",
+					"\\/\\*([^/*]|\\*[^*/]|[^/*]\\/)*\\*\\/",
+					"timezone",
+					"sqlite3",
+					"'\\",
+					"cgcaan",
+					"  %",
+					"ctrl+shift+c",
+					"ctrl+shift+",
+					"shift+c",
+					"addVerbe",
+					"=",
+					"const",
+					"type",
+					"addChaine",
+					"\"))",
 					"1",
-					"glMultiTexCoord2d",
-					"BLOCK_SIZE",
-					"GL_TEXTURE1,",
-					"glMultiTexCoord2d",
-					"texsol",
-					"Tex",
-					"TEX",
-					"Tex",
-					"tex",
-					"TEX",
-					"Tex",
-					"TEX",
-					"Tex",
-					"TEX",
-					"Tex",
-					"TEX",
-					"Tex",
-					"tex",
-					"TEX",
-					"Tex",
-					"TEX",
-					"Tex",
-					"tex",
-					"sol",
-					"init_TTF",
-					"WINDOW_SIZE",
-					"Bite",
-					"essai \nessai2",
-					"request",
-					"rep",
-					"id",
-					"_POST",
-					" $name = $",
-					"$name = ",
-					"GAME OVER",
-					"rotate",
-					"niveau"
+					":\n",
+					"WampixelAndoCo",
+					"%s"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1075,6 +1253,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1084,16 +1263,16 @@
 			},
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 23.0
 			},
 			"input":
 			{
 				"height": 31.0
 			},
-			"menu_visible": true,
+			"menu_visible": false,
 			"output.exec":
 			{
-				"height": 224.0
+				"height": 287.0
 			},
 			"output.find_results":
 			{
@@ -1119,7 +1298,7 @@
 			{
 				"height": 25.0
 			},
-			"pinned_build_system": "Packages/MagicPython/settings/sublime/Python.sublime-build",
+			"pinned_build_system": "",
 			"replace":
 			{
 				"height": 42.0
@@ -1131,6 +1310,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"make",
+						"Compilation/Tp01/Makefile"
+					]
 				],
 				"width": 0.0
 			},
@@ -1145,18 +1328,22 @@
 			},
 			"select_symbol":
 			{
-				"height": 400.0,
+				"height": 377.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"Label » sec:Travail effectué"
+					]
 				],
-				"width": 400.0
+				"width": 540.0
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 247.0,
+			"side_bar_width": 252.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1172,595 +1359,523 @@
 				"selected_items":
 				[
 					[
+						"me",
+						"meta\tTag"
+					],
+					[
+						"expr",
+						"expr2\t(tex_to_mathml.output)"
+					],
+					[
+						"val",
+						"val_fin"
+					],
+					[
+						"exp",
+						"expr"
+					],
+					[
+						"crea",
+						"create_op"
+					],
+					[
+						"create_s",
+						"create_sub"
+					],
+					[
+						"cre",
+						"create_latex_op"
+					],
+					[
+						"op",
+						"op_b"
+					],
+					[
+						"E",
+						"EXIT_FAILURE\t(main.c)"
+					],
+					[
+						"create",
+						"create_racine"
+					],
+					[
+						"OP",
+						"OP_LATEX\t(tex_to_mathml.y)"
+					],
+					[
+						"OPER",
+						"OPERATEUR_LATEX"
+					],
+					[
+						"tex",
+						"tex_to_mathml.h"
+					],
+					[
+						"yyt",
+						"yystype.h"
+					],
+					[
+						"yys",
+						"yystype.h"
+					],
+					[
+						"yy",
+						"yystype.h\t(tex_to_mathml.y)"
+					],
+					[
+						"sizeo",
+						"sizeof\t(calcEEE.y)"
+					],
+					[
+						"var",
+						"VARIABLE"
+					],
+					[
+						"OPE",
+						"OPERATEUR_POW"
+					],
+					[
+						"text",
+						"TextField\tclass"
+					],
+					[
+						"Text",
+						"TextField\tclass"
+					],
+					[
+						"ca",
+						"cat\tstatement"
+					],
+					[
+						"cat_",
+						"cat_name"
+					],
+					[
+						"login",
+						"login_url\t'admin:login'"
+					],
+					[
+						"CharF",
+						"CharField\tclass"
+					],
+					[
+						"Iny",
+						"IntegrityError\tclass"
+					],
+					[
+						"usr",
+						"usrname"
+					],
+					[
+						"htt",
+						"HttpResponseRedirect"
+					],
+					[
+						"Http",
+						"HttpResponse"
+					],
+					[
+						"cmd",
+						"cmd_count"
+					],
+					[
+						"te",
+						"tex_cmd_list"
+					],
+					[
 						"use",
-						"use	Usepackage"
+						"usepackage"
 					],
 					[
-						"Winni",
-						"getWinningStrat"
+						"i",
+						"i\tTag"
 					],
 					[
-						"getP",
-						"getPrefixList	(forest.py)"
+						"line",
+						"line-through"
 					],
 					[
-						"del",
-						"delNodeToRoot	(winningStratUle.py)"
+						"hidd",
+						"hidden_content\t(views.py)"
 					],
 					[
-						"ia",
-						"iaUlehla"
+						"H",
+						"HiddenInput\tclass"
 					],
 					[
-						"get",
-						"getPrefixList"
-					],
-					[
-						"Vl",
-						"ValueError	class"
-					],
-					[
-						"fonctio",
-						"fonctionADefinirUnNomQuiDechire	function"
-					],
-					[
-						"fonct",
-						"fonctionADefinirUnNomQuiDechire	function"
-					],
-					[
-						"colo",
-						"colorNode	function"
-					],
-					[
-						"getPre",
-						"getPrefixList"
-					],
-					[
-						"ASS",
-						"AssertionError	class"
-					],
-					[
-						"fo",
-						"forest"
-					],
-					[
-						"print",
-						"printForest	function"
-					],
-					[
-						"fore",
-						"forestL"
-					],
-					[
-						"forest",
-						"forestL"
-					],
-					[
-						"fores",
-						"forestL	statement"
-					],
-					[
-						"getFo",
-						"getForest	function"
-					],
-					[
-						"is",
-						"isEmptyForest	function"
-					],
-					[
-						"col",
-						"colorNode	function"
-					],
-					[
-						"color",
-						"colorList	statement"
-					],
-					[
-						"getPr",
-						"getPrefixList"
-					],
-					[
-						"succ",
-						"succList"
-					],
-					[
-						"rip",
-						"ripFunction	function"
-					],
-					[
-						"nbR",
-						"nbRW	statement"
-					],
-					[
-						"for",
-						"forestM"
-					],
-					[
-						"white",
-						"whiteNode	statement"
-					],
-					[
-						"lF",
-						"lFunction	function"
-					],
-					[
-						"colorN",
-						"colorNode	function"
-					],
-					[
-						"lfun",
-						"lFunction	function"
-					],
-					[
-						"w",
-						"whiteNode	statement"
-					],
-					[
-						"colorFore",
-						"colorForest	function"
-					],
-					[
-						"colorNo",
-						"colorNodeSucc"
-					],
-					[
-						"getp",
-						"getPredNode"
-					],
-					[
-						"suff",
-						"suffixe	statement"
-					],
-					[
-						"prefi",
-						"prefixe	statement"
-					],
-					[
-						"LPR",
-						"LPrefixe	param"
-					],
-					[
-						"LP",
-						"LPrefixe	param"
-					],
-					[
-						"pre",
-						"prefixe"
-					],
-					[
-						"appe",
-						"append	function"
-					],
-					[
-						"getS",
-						"getSuccNode	function"
-					],
-					[
-						"getPredNod",
-						"getPredNode	function"
-					],
-					[
-						"Color",
-						"colorNode	function"
-					],
-					[
-						"true",
-						"True	keyword"
-					],
-					[
-						"re",
-						"return"
-					],
-					[
-						"co",
-						"color	statement"
-					],
-					[
-						"getPredN",
-						"getPredNode	function"
-					],
-					[
-						"delNodeT",
-						"delNodeToRoot	function"
-					],
-					[
-						"exe",
-						"except"
-					],
-					[
-						"getW",
-						"getWinningStrat	function"
-					],
-					[
-						"Val",
-						"ValueError	class"
-					],
-					[
-						"rais",
-						"raise	keyword"
-					],
-					[
-						"getpre",
-						"getPredNode	(forest.py)"
-					],
-					[
-						"node",
-						"nodeCount"
-					],
-					[
-						"pri",
-						"print	function"
-					],
-					[
-						"prin",
-						"printForest	function"
-					],
-					[
-						"su",
-						"suffixe"
-					],
-					[
-						"pr",
-						"printForest"
-					],
-					[
-						"getForestL",
-						"getForestList	function"
-					],
-					[
-						"pref",
-						"prefixe	statement"
-					],
-					[
-						"dyck",
-						"dyckword	module"
-					],
-					[
-						"st",
-						"stack"
-					],
-					[
-						"getfo",
-						"getForestList"
-					],
-					[
-						"rand",
-						"randomDyckWord"
-					],
-					[
-						"ran",
-						"randomDyckWord"
-					],
-					[
-						"back",
-						"backidxs"
-					],
-					[
-						"app",
-						"append	(forest.py)"
-					],
-					[
-						"front",
-						"frontsizes"
-					],
-					[
-						"id",
-						"idxs"
-					],
-					[
-						"Va",
-						"ValueError	(winningStratUle.py)"
-					],
-					[
-						"V",
-						"ValueError	class"
-					],
-					[
-						"ex",
-						"except	(hackendot.py)"
-					],
-					[
-						"type",
-						"type	class"
-					],
-					[
-						"trouve",
-						"trouvÃ¨re"
-					],
-					[
-						"exhau",
-						"exhaustive"
-					],
-					[
-						"de",
-						"delNode	(hackendot.py)"
-					],
-					[
-						"deln",
-						"delNode	function"
-					],
-					[
-						"tree",
-						"tree	class"
-					],
-					[
-						"after",
-						"afterglow"
-					],
-					[
-						"mate",
-						"material"
-					],
-					[
-						"va",
-						"ValueError	class"
+						"btn",
+						"btn-primary"
 					],
 					[
 						"in",
-						"input"
+						"input\tTag"
 					],
 					[
-						"No",
-						"None	(forest.py)"
+						"funct",
+						"function"
 					],
 					[
-						"ra",
-						"random	(nim.py)"
+						"edi",
+						"contenteditable\tAttr"
 					],
 					[
-						"__",
-						"__init__"
+						"st",
+						"style\tTag"
 					],
 					[
-						"sl",
-						"self"
+						"form",
+						"form-control"
 					],
 					[
-						"sort",
-						"sort	function"
+						"user",
+						"user_article"
 					],
 					[
-						"so",
-						"sort	function"
+						"httpRe",
+						"HttpResponseRedirect\tclass"
 					],
 					[
-						"A",
-						"AssertionError	class"
+						"Htt",
+						"Http404\tclass"
 					],
 					[
-						"ass",
-						"assert"
+						"get_o",
+						"get_object_or_404\tfunction"
+					],
+					[
+						"view",
+						"views"
+					],
+					[
+						"object",
+						"ObjectDoesNotExist\tclass"
+					],
+					[
+						"ext",
+						"exceptions\tmodule"
+					],
+					[
+						"cate",
+						"categories"
+					],
+					[
+						"categorie",
+						"categories"
+					],
+					[
+						"categr",
+						"categories_id"
+					],
+					[
+						"date",
+						"date_pub"
+					],
+					[
+						"cl",
+						"cleaned_data"
+					],
+					[
+						"cle",
+						"cleaned_data"
+					],
+					[
+						"http",
+						"HttpResponseRedirect\tclass"
+					],
+					[
+						"ess",
+						"essai\tclass"
+					],
+					[
+						"col",
+						"col-lg-5\t(index.html)"
+					],
+					[
+						"us",
+						"username"
+					],
+					[
+						"e",
+						"em\tTag"
+					],
+					[
+						"id",
+						"id_art"
 					],
 					[
 						"r",
-						"randrange"
+						"r_cat\tstatement"
 					],
 					[
-						"ri",
-						"raise	keyword"
+						"catego",
+						"categorie\t(views.py)"
 					],
 					[
-						"Assert",
-						"AssertionError	class"
+						"r_art",
+						"r_art.title"
 					],
 					[
-						"mont",
-						"montant"
+						"cat",
+						"categories\t(views.py)"
 					],
 					[
-						"nim",
-						"nim_sum"
+						"str",
+						"str_s"
 					],
 					[
-						"p",
-						"pierre"
+						"F",
+						"False\tinstance"
 					],
 					[
-						"L",
-						"LDLIBS"
+						"art",
+						"art_id"
 					],
 					[
-						"send",
-						"tftp_send_OACK_wait_ACK"
+						"pri",
+						"primary_key"
 					],
 					[
-						"DATA",
-						"tftp_send_DATA_wait_ACK"
+						"Au",
+						"AutoField\tclass"
 					],
 					[
-						"wait",
-						"tftp_wait_ACK_with_timeout"
+						"default",
+						"default=0"
 					],
 					[
-						"OACK",
-						"tftp_send_OACK"
+						"abs",
+						"abstract\t(models.py)"
 					],
 					[
-						"se",
-						"tftp_send_DATA_wait_ACK"
+						"categ",
+						"categ\tstatement"
 					],
 					[
-						"sendRR",
-						"tftp_send_RRQ_opt"
+						"frame",
+						"frametitle"
 					],
 					[
-						"sen",
-						"tftp_send_RRQ_opt"
+						"cent",
+						"centering"
 					],
 					[
-						"recv",
-						"socketUDP_recvFrom"
+						"uti",
+						"utils\t(models.py)"
+					],
+					[
+						"djang",
+						"django\tmodule"
+					],
+					[
+						"arti",
+						"articles"
+					],
+					[
+						"dr",
+						"dropdown-item\t(base.html)"
+					],
+					[
+						"drop",
+						"dropdown-item"
+					],
+					[
+						"dro",
+						"dropdown-menu\t(base.html)"
+					],
+					[
+						"class",
+						"class"
+					],
+					[
+						"Ex",
+						"except\tkeyword"
+					],
+					[
+						"exe",
+						"except\tkeyword"
+					],
+					[
+						"model",
+						"models\tmodule"
+					],
+					[
+						"article",
+						"article\tmodule"
+					],
+					[
+						"open",
+						"open_automatically"
+					],
+					[
+						"si",
+						"side_bar_files_open_with"
+					],
+					[
+						"local",
+						"localhost"
+					],
+					[
+						"For",
+						"ForeignKey\tclass"
+					],
+					[
+						"Te",
+						"TextInput"
+					],
+					[
+						"elem",
+						"elem_symb"
+					],
+					[
+						"li",
+						"liste_chaine.h"
+					],
+					[
+						"hea",
+						"head_symb\t(liste_chaine.h)"
+					],
+					[
+						"he",
+						"head_symb"
+					],
+					[
+						"sym",
+						"symb"
+					],
+					[
+						"conn",
+						"connect\tfunction"
+					],
+					[
+						"SOCK",
+						"SOCK_STREAM\tinstance"
 					],
 					[
 						"sock",
-						"socketUDP_bound"
+						"socket\tmodule"
 					],
 					[
-						"socket",
-						"socketUDP_bound"
+						"so",
+						"socket\tmodule"
 					],
 					[
-						"soc",
-						"sockaddr_to_adresseInternet"
+						"get",
+						"get_commune\t(base.html)"
 					],
 					[
-						"adr",
-						"adresseInternet"
+						"h",
+						"header\tTag"
 					],
 					[
-						"req",
-						"req_client"
+						"sub",
+						"submit"
 					],
 					[
-						"size",
-						"size_t"
+						"head",
+						"header\tTag"
 					],
 					[
-						"blk",
-						"blkSize"
+						"di",
+						"div\tTag"
 					],
 					[
-						"no",
-						"noctets"
+						"center",
+						"center-block"
 					],
 					[
-						"n",
-						"noctets"
+						"list",
+						"list-style-type"
 					],
 					[
-						"bl",
-						"blkSize"
+						"l",
+						"link\tTag"
 					],
 					[
-						"opt",
-						"optarg"
+						"bakc",
+						"background-color"
 					],
 					[
-						"tft",
-						"tftp_make_oack"
+						"back",
+						"background-color"
 					],
 					[
-						"lib",
-						"libSocketUDP"
+						"bord",
+						"border-collapse"
 					],
 					[
-						"a",
-						"adresseInternet_to_sockAddr"
+						"max",
+						"max_length"
 					],
 					[
-						"adress",
-						"adresseInternet"
+						"models",
+						"models\tmodule"
 					],
 					[
-						"ad",
-						"adresseInternet_getinfo"
+						"re",
+						"redirect\tfunction"
 					],
 					[
-						"geoco",
-						"geocodeFunc"
+						"next",
+						"next_page"
 					],
 					[
-						"geo",
-						"geocodeAddr"
+						"djan",
+						"django.contrib.auth"
 					],
 					[
-						"coor",
-						"coordC"
+						"user_",
+						"user_id\t(urls.py)"
 					],
 					[
-						"resul",
-						"result"
+						"con",
+						"contrib\tmodule"
 					],
 					[
-						"bac",
-						"background-image"
+						"pos",
+						"pos_i\tstatement"
 					],
 					[
-						"d",
-						"div	Tag"
+						"u",
+						"ul\tTag"
 					],
 					[
-						"addr",
-						"addr2"
+						"url",
+						"urlpatterns\t(urls.py)"
+					],
+					[
+						"auth",
+						"auth_views\tmodule"
+					],
+					[
+						"auth_",
+						"auth_views\timport"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"p",
+						"PasswordInput\tclass"
+					],
+					[
+						"forms",
+						"forms\tmodule"
+					],
+					[
+						"adm",
+						"admin\tmodule"
+					],
+					[
+						"M",
+						"method\tAttr"
 					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/home/wampixel/Github/Rapport/rapport.tex",
-					"settings":
-					{
-						"buffer_size": 1747,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wampixel/Cours/L3/Projet annuel/rapport/rapport.tex",
-					"settings":
-					{
-						"buffer_size": 81715,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wampixel/Github/Rapport/text/gen.tex",
-					"settings":
-					{
-						"buffer_size": 186,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wampixel/Github/Rapport/text/intro.tex",
-					"settings":
-					{
-						"buffer_size": 18,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wampixel/Github/Rapport/text/apport.tex",
-					"settings":
-					{
-						"buffer_size": 251,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wampixel/Cours/L3/Stage/notes.txt",
-					"settings":
-					{
-						"buffer_size": 425,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wampixel/.cache/.fr-lx32FI/python-graph-master/README",
-					"settings":
-					{
-						"buffer_size": 3012,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wampixel/Github/Rapport/text/concl.tex",
-					"settings":
-					{
-						"buffer_size": 15,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/wampixel/Github/Rapport/text/travail.tex",
-					"settings":
-					{
-						"buffer_size": 110,
-						"line_ending": "Unix"
-					}
-				}
 			],
-			"build_system": "",
+			"build_system": "Packages/LaTeXing/LaTeX (TikZ).sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -1776,6 +1891,22 @@
 					],
 					[
 						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+							"Clean up Files"
+						]
+					],
+					[
+						"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
 						""
 					]
 				],
@@ -1816,11 +1947,55 @@
 			"command_palette":
 			{
 				"height": 400.0,
-				"last_filter": "",
+				"last_filter": "m",
 				"selected_items":
 				[
 					[
-						"pa",
+						"m",
+						"View: Toggle Menu"
+					],
+					[
+						"me",
+						"View: Toggle Menu"
+					],
+					[
+						"men",
+						"View: Toggle Menu"
+					],
+					[
+						"snipp",
+						"Set Syntax: AppleScript"
+					],
+					[
+						"latex",
+						"Set Syntax: BibLaTeX"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"instla",
+						"Package Control: Install Package"
+					],
+					[
+						"latextools",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"lis",
 						"Package Control: List Packages"
 					],
 					[
@@ -1828,20 +2003,168 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"push",
-						"Git: Push"
+						"Snippet: ",
+						"Snippet: #!/usr/bin/env"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"make",
+						"Makefile (Tp01): make clean"
+					],
+					[
+						"term",
+						"Preferences: Terminal Settings – Default"
+					],
+					[
+						"new fo",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"dele",
+						"File: Delete"
+					],
+					[
+						"new",
+						"File: New Folder Relative to Project Root"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"vie",
+						"View: Toggle Menu"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"colorpi",
+						"Color Picker: Insert Color"
+					],
+					[
+						"vi",
+						"View: Toggle Menu"
+					],
+					[
+						"colo",
+						"Color Picker"
+					],
+					[
+						"k",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"alig",
+						"Preferences: Alignment File Settings – Default"
 					],
 					[
 						"insta",
 						"Package Control: Install Package"
 					],
 					[
-						"pu",
-						"Git: Push"
+						"col",
+						"Color Picker"
+					],
+					[
+						"instl",
+						"LaTeXing: Install License"
 					],
 					[
 						"co",
-						"Git: Commit"
+						"Color Picker"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"package ",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"li",
+						"Package Control: List Packages"
+					],
+					[
+						"  v",
+						"View: Toggle Menu"
+					],
+					[
+						"v",
+						"View: Toggle Menu"
+					],
+					[
+						"toogl",
+						"LaTeXing: Toggle Offline Mode"
+					],
+					[
+						"insl",
+						"LaTeXing: Install License"
+					],
+					[
+						"inst\t",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"insl\t",
+						"LaTeXing: Install License"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"bar",
+						"View: Toggle Status Bar"
+					],
+					[
+						"Snippet: Bibtex ",
+						"Snippet: BibTeX Book"
+					],
+					[
+						"Snippet: Bibtex art",
+						"Snippet: BibTeX Article"
+					],
+					[
+						"folder",
+						"Terminal: Open in project folder"
+					],
+					[
+						"meu",
+						"View: Toggle Menu"
+					],
+					[
+						"pa",
+						"Package Control: List Packages"
+					],
+					[
+						"push",
+						"Git: Push"
+					],
+					[
+						"pu",
+						"Git: Push"
 					],
 					[
 						"ad",
@@ -1850,10 +2173,6 @@
 					[
 						"add",
 						"Git: Add All"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"comm",
@@ -1868,32 +2187,12 @@
 						"Git: Commit"
 					],
 					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"menu",
-						"View: Toggle Menu"
-					],
-					[
 						"gitG",
 						"GitGutter: Show Comparing Against"
 					],
 					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
-					],
-					[
 						"git",
 						"GitGutter: Compare Against Branch"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
 					],
 					[
 						"gitcutt",
@@ -1912,32 +2211,12 @@
 						"Git: Init"
 					],
 					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
 						"status",
 						"Git: Status"
 					],
 					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"men",
-						"View: Toggle Menu"
-					],
-					[
-						"me",
-						"View: Toggle Menu"
-					],
-					[
 						"up",
 						"Package Control: Upgrade/Overwrite All Packages"
-					],
-					[
-						"pack",
-						"Package Control: List Packages"
 					],
 					[
 						"late",
@@ -1960,21 +2239,20 @@
 						"Set Syntax: Makefile"
 					],
 					[
-						"Snippet: ",
-						"Snippet: Description"
-					],
-					[
 						"",
 						"Set Syntax: LaTeX"
 					]
 				],
-				"width": 541.0
+				"width": 539.0
 			},
 			"console":
 			{
 				"height": 211.0,
 				"history":
 				[
+					"exit",
+					"ls",
+					"quit()",
 					"import os; os.system('git --version')",
 					"os.getenv('PATH')",
 					"print os.getenv('PATH')",
@@ -2021,146 +2299,146 @@
 			},
 			"expanded_folders":
 			[
-				"/home/wampixel/Github/Rapport"
+				"/home/wampixel/Cours/M1"
 			],
 			"file_history":
 			[
-				"/home/wampixel/Downloads/arbres.py",
-				"/home/wampixel/Downloads/hackendot-master/source/karma.conf.js",
-				"/home/wampixel/Github/Rapport/text/concl.tex",
+				"/home/wampixel/Cours/M1/Compilation/FlorianSoudayTristanRodriguez/tex_to_mathml.lex",
+				"/home/wampixel/Cours/M1/Compilation/FlorianSoudayTristanRodriguez/tex_to_mathml.y",
+				"/home/wampixel/Cours/M1/Compilation/FlorianSoudayTristanRodriguez/default.html",
+				"/home/wampixel/Cours/M1/essai.tex",
+				"/home/wampixel/FlorianSoudayTristanRodriguez/Readme.md",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.output",
+				"/home/wampixel/Cours/M1/Compilation/projet/essai.txt",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.lex",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.y",
+				"/home/wampixel/Cours/M1/Compilation/projet/default.html",
+				"/home/wampixel/Cours/M1/Langage_Web/Tp/Tp03/lw-tp3-fichiers/toutfaux.xhtml",
+				"/home/wampixel/Cours/M1/Compilation/essai.html",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.h",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/Makefile",
+				"/home/wampixel/Cours/M1/Compilation/projet/Makefile",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/calcEEE.y",
+				"/home/wampixel/Cours/M1/essai.latex",
+				"/home/wampixel/Cours/L2/Algo II/projet/main.c",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/calc.y",
+				"/home/wampixel/Cours/L2/Algo II/projet/hashtbl.c",
+				"/home/wampixel/Cours/M1/Compilation/projet/essai.html",
+				"/home/wampixel/Cours/L2/Algo II/projet/main.h",
+				"/home/wampixel/Cours/L3/Systeme d'exploitation/Tp/Tp_03/main.c",
+				"/home/wampixel/Cours/L3/Systeme d'exploitation/Projet/Code source/analyse.c",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/calcEEE.y",
+				"/home/wampixel/Cours/M1/Compilation/projet/calcEEE.yy.h",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/yystype.h",
+				"/home/wampixel/Cours/L3/Systeme d'exploitation/Projet/Code source/analyse.h",
+				"/home/wampixel/Cours/M1/Compilation/projet/yystype.h.gch",
+				"/home/wampixel/Cours/M1/Compilation/projet/yystype.h",
+				"/home/wampixel/.cache/.fr-HNuves/Makefile",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/calcEEE.lex",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/liste_chaine.h",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/calcEEE.lex",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/lex.yy.c",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/calcEEE.output",
+				"/home/wampixel/Cours/M1/Compilation/Tp06/calcEEE",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/Makefile",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/rapport.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/views.py",
+				"/home/wampixel/Souday_Rodriguez/urls.py",
+				"/home/wampixel/Souday_Rodriguez/sciMS/article/forms.py",
+				"/home/wampixel/Souday_Rodriguez/sciMS/sciMS/urls.py",
+				"/home/wampixel/Souday_Rodriguez/sciMS/q.log",
+				"/home/wampixel/Souday_Rodriguez/rapport/README.md",
+				"/home/wampixel/Souday_Rodriguez/sciMS/article/views.py",
+				"/home/wampixel/Souday_Rodriguez/sciMS/article/static/article/js/tableOfContent.js",
+				"/home/wampixel/Souday_Rodriguez/sciMS/article/static/article/js/wysiwyg.js",
+				"/home/wampixel/Downloads/dep.tex",
+				"/home/wampixel/Souday_Rodriguez/sciMS/sciMS/settings.py",
+				"/home/wampixel/Souday_Rodriguez/rapport/text/dep.tex",
+				"/home/wampixel/.cache/.fr-KYjaD5/Souday_Rodriguez/sciMS/sciMS/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/forms.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/static/article/js/wysiwyg.js",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/create_categorie.html",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/tmp/sciMS/sciMS/urls.py",
+				"/home/wampixel/sciMS/rapport/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/create_article.html",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/sciMS/sciMS/settings.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/sciMS/settings.py",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/sciMS/article/models.py",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/sciMS/sciMS/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/tmp/tmp/sciMS/sciMS/settings.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/intro.tex",
+				"/home/wampixel/sciMS/rapport/text/travail.tex",
+				"/home/wampixel/sciMS/rapport/rapport.tex",
+				"/home/wampixel/sciMS/rapport/text/dep.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/dep.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/sciMS/sciMS/settings.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/sciMS/wsgi.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/base.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/article_list.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/travail.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/apport.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/text/concl.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/index.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/models.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/views.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/models.py",
+				"/home/wampixel/Cours/M1/Compilation/Tp03/exo8.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp01/exo3.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp01/exo2.l",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/art_user.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/read_art.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/edit_article.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/login.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/registration.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/static/article/js/tableOfContent.js",
+				"/home/wampixel/Cours/M1/Compilation/projet/tex_to_mathml.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp02/exo5.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp02/exo4.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp03/exo7.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp04/exo10.l",
+				"/home/wampixel/Cours/M1/Compilation/Tp05/calc.lex",
+				"/home/wampixel/Cours/M1/Compilation/Tp02/exo6.l",
+				"/home/wampixel/Downloads/sciMS.sql",
 				"/home/wampixel/Cours/L3/Projet annuel/rapport/rapport.tex",
-				"/home/wampixel/Cours/L3/Projet annuel/rapport/rapport.bib",
-				"/home/wampixel/Github/Rapport/rapport.bib",
-				"/home/wampixel/.config/sublime-text-3/Packages/Terminal/Terminal.py",
-				"/home/wampixel/Cours/L3/Projet annuel/rapport/univ-projet.cls",
-				"/home/wampixel/Github/Rapport/essai.tex",
-				"/home/wampixel/test.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/Nim/nim.py",
-				"/home/wampixel/Github/python_sources/hackendot/hackendot.py",
-				"/home/wampixel/truc.py",
-				"/home/wampixel/Github/python_sources/hackendot/truc",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/GitGutter.sublime-settings",
-				"/home/wampixel/Github/python_sources/hackendot/winningStratUle.py",
-				"/home/wampixel/Github/python_sources/.git/config",
-				"/home/wampixel/Github/python_sources/hackendot/dyckword.py",
-				"/home/wampixel/Github/python_sources/hackendot/winningStratExh.py",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/winningStratExh.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/winningStratUle.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/forest.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/treetest.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/tree.py",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/tests/gfRandom.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/hackendot.log",
-				"/home/wampixel/.config/sublime-text-3/Packages/Terminality/Default (Linux).sublime-keymap",
-				"/home/wampixel/.cache/.fr-wqhIrU/README.md",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/StatusBarWeather.sublime-settings",
-				"/home/wampixel/.config/sublime-text-3/Packages/Status Bar Weather/StatusBarWeather.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/normastic/confBedon",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/hackendot.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/Nim/ia.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot/winningStrat.py",
-				"/home/wampixel/Cours/L3/Stage/rapport/rapport.tex",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/StatusBarFileSize.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot2.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot2.log",
-				"/home/wampixel/Cours/L3/Stage/python_sources/forest.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/tree.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/nim.py",
-				"/home/wampixel/Cours/L3/Stage/python_sources/hackendot.py",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/ia.py",
-				"/home/wampixel/Cours/L3/Algo des Graphes/Projet/src_ulehla/arbo.c",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/Terminality.sublime-settings",
-				"/home/wampixel/Cours/L3/Stage/python_sources/forest.dot",
-				"/home/wampixel/Downloads/python-graph-master/dot/distribute_setup.py",
-				"/home/wampixel/Downloads/pydot3k-1.0.17/setup.py",
-				"/home/wampixel/Downloads/pydot3-1.0.8/setup.cfg",
-				"/home/wampixel/Downloads/pydot3-1.0.8/PKG-INFO",
-				"/home/wampixel/Downloads/pydot3-1.0.8/MANIFEST.in",
-				"/home/wampixel/Cours/L3/Stage/sources.txt",
-				"/home/wampixel/Cours/L3/Stage/python_sources/zcasino.py",
-				"/home/wampixel/Documents/divers/modules sublime-text3",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/MagicPython.sublime-settings",
-				"/home/wampixel/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/wampixel/testpy/test.py",
-				"/home/wampixel/RaspPi/rapport final/rapport.tex",
-				"/home/wampixel/Cours/L3/Stage/python_sources/test.c",
-				"/home/wampixel/Cours/L3/Stage/python_sources/test.tex",
-				"/home/wampixel/Cours/L3/Stage/test.tex",
-				"/home/wampixel/.config/sublime-text-3/Packages/User/LaTeX Beamer.sublime-settings",
-				"/home/wampixel/Downloads/Thumbs.db",
-				"/home/wampixel/rapport final/rapport.tex",
-				"/home/wampixel/rapport final/rapport.pdf",
-				"/srv/http/essai/gogo.php",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/tftp.h",
-				"/srv/http/pweb/php/destroyH.php",
-				"/srv/http/pweb/php/deconnect.php",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/bsocket.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/bsocket.h",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/client.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/client_1.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/client_2.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/client_2b.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/man.txt",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/serveur.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/serveur_1.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/socketUDP.c",
-				"/home/wampixel/Downloads/projet_reseau_TRodriguez_GSpaur/tftp.c",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/static/index/css/base.css",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/rapport/README.md",
+				"/home/wampixel/Cours/L3/Stage/Nim-games/Rapport/text/intro.tex",
+				"/home/wampixel/Cours/L3/Stage/Nim-games/Rapport/rapport.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/sciMS/pass.txt",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/Exemple d'article.pdf",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/static/index/js/wysiwyg.js",
+				"/home/wampixel/Cours/M1/Langage_Web/wysiwyg.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/sciMS/urls.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/categorie_list.html",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/templates/article/index.html",
+				"/home/wampixel/Cours/M1/Gestion_Entreprise/revision.txt",
+				"/home/wampixel/ajout_STB",
+				"/home/wampixel/Cours/M1/cr STB",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/forms.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/templates/index/search.html",
+				"/home/wampixel/.weechat/python/notification_center.py",
+				"/home/wampixel/.weechat/python/autoload/notification_center.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/tests.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/article/admin.py",
+				"/home/wampixel/Cours/M1/Langage_Web/projet/sciMS/index/admin.py",
+				"/home/wampixel/Cours/M1/Gestion_Entreprise/Tesla/presentation.tex",
+				"/home/wampixel/Cours/M1/Langage_Web/Cours/ch0-Introduction.pdf",
+				"/home/wampixel/Cours/M1/Compilation/Tp03/Makefile",
 				"/home/wampixel/Cours/L3/Infographie/Sokoban/sokoban.c",
-				"/home/wampixel/Cours/L3/Infographie/Tp01/sokoban.c",
-				"/home/wampixel/Cours/L3/Infographie/Tp01/Rapport.txt",
-				"/home/wampixel/Cours/L3/Infographie/Tp01/makefile",
-				"/home/wampixel/Cours/L3/Infographie/Projet/Makefile",
-				"/home/wampixel/Cours/L3/Infographie/Projet/moteur.h",
-				"/home/wampixel/Cours/L3/Infographie/Projet/moteur.c",
-				"/home/wampixel/Cours/L3/Infographie/Projet/draw.h",
-				"/home/wampixel/Cours/L3/Infographie/Projet/draw.c",
-				"/home/wampixel/Cours/L3/Infographie/Tp01/essai.c",
-				"/home/wampixel/Downloads/Infographie/Projet/Makefile",
-				"/home/wampixel/Cours/L3/Infographie/Projet/main.h",
-				"/home/wampixel/Cours/L3/Infographie/Projet/main.c",
-				"/home/wampixel/Cours/L3/Infographie/Projet/opengl.c",
-				"/home/wampixel/Cours/L3/Infographie/Projet/opengl.h",
-				"/home/wampixel/Cours/L3/Infographie/Projet/constantes.h",
-				"/srv/http/pweb/Rapport/rapport.tex",
-				"/home/wampixel/Cours/L3/Infographie/Projet/init.c",
-				"/home/wampixel/Cours/L3/Infographie/Projet/init.h",
-				"/srv/http/pweb/Rapport/makefile",
-				"/home/wampixel/Downloads/rapportweb.tex",
-				"/home/wampixel/Cours/L3/Reseau/Tp6/laddrin.h",
-				"/home/wampixel/reseau/tftp.h",
-				"/home/wampixel/reseau/client.c",
-				"/home/wampixel/reseau/serveur.c",
-				"/home/wampixel/Desktop/rapport final/rapport.tex",
-				"/home/wampixel/reseau/tftp.c",
-				"/home/wampixel/Downloads/rapport.tex",
-				"/home/wampixel/reseau/bsocket.h",
-				"/home/wampixel/reseau/socketUDP.h",
-				"/home/wampixel/reseau/socketUDP.c",
-				"/home/wampixel/reseau/client_1.c",
-				"/home/wampixel/reseau/bsocket.c",
-				"/home/wampixel/RaspPi/rapport_tex/slides.tex",
-				"/home/wampixel/reseau/essai.c",
-				"/home/wampixel/Cours/L3/Reseau/Tp3/client.c",
-				"/home/wampixel/Cours/L3/Reseau/Tp3/main.c",
-				"/home/wampixel/reseau/client_3.c",
-				"/home/wampixel/Cours/L3/Projet annuel/rapport/rapport_projet.bib",
-				"/home/wampixel/reseau/ici",
-				"/home/wampixel/reseau/test.txt",
-				"/home/wampixel/reseau/coucoucou.txt",
-				"/home/wampixel/RaspPi/rapport_tex/rapport.tex",
-				"/run/media/wampixel/HRM_CCSNA_X/rapport_tex/rapport.tex"
+				"/home/wampixel/.conkyrc/information2",
+				"/home/wampixel/Cours/M1/Cryptographie/scripts/cypherCesar.py",
+				"/home/wampixel/Cours/M1/Langage_Web/Tp/Tp07/lw-tp7/lw-tp7-fichiers/jslab/jslab.css"
 			],
 			"find":
 			{
-				"height": 23.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 104.0,
 				"where_history":
 				[
 				]
@@ -2170,134 +2448,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					")\")",
-					"ff",
-					"print",
-					"i",
-					"        i = -1\n        for f in forestL :\n            print(type(f))\n            if self.ripFunction(i) == 1 :\n                i = forestL.index(f)\n\n        if i == -1 :\n            return self.forest[0]",
-					"forestM",
-					"forestC",
-					"i",
-					"]) ",
-					"pre",
-					"suf",
+					"expr",
+					"op",
+					"TODO",
+					"fact",
+					"exprp",
+					"fact",
+					"exprp",
+					"fact",
+					"expr2",
+					"gogo",
+					"fact",
+					"var",
+					"expr2",
+					"fact",
+					"expr",
+					"%s",
+					"op",
+					"expr2",
+					");}\n",
+					";\n",
+					"qwertyuiopasdfghjklzxcvnm",
+					"sizeof",
+					"ud",
+					"sizeof",
+					"fact",
+					"tst",
+					"yys",
+					"yyst",
+					"s",
+					"$1+$3",
+					"syntax error",
+					"\"\n",
+					"°",
+					"3\\°",
+					"\\°",
+					"&",
 					" ",
-					"||",
-					"#!/",
-					"TOR",
-					"print",
-					"context",
-					"Context",
-					"context",
-					"SDL_GL_CreateContext",
-					"context",
-					"SDL_GL_CreateContext",
-					"context",
+					"smallbreak",
+					"\\textasciicircum",
+					"create_article",
+					"staff_member_required",
+					"q(",
+					"section",
+					"Introduction",
+					"span",
+					"button",
+					"</button>",
+					"HiddenInput",
+					"textarea",
+					"< ",
+					"div",
+					"textarea",
+					"div",
+					"//",
+					"redirect",
+					"utilisateur",
+					"></",
+					"cat__contains",
+					"TODO",
+					"keyword",
+					"articles",
+					"article",
+					"categories",
+					"PaloAlto",
+					"cat",
+					"verifications",
+					"create_article",
+					"symb",
+					"liste_chaine.h",
+					"val",
+					"$$",
+					" $$",
+					"fonction",
+					"header",
+					"<button>",
+					"lg",
+					"]",
+					"ContactForm",
+					"create_user",
+					"class=\"content\"",
+					"a",
+					"categorie_id",
+					"{%",
+					"LOGIN_REDIRECT_URL",
+					"settings.LOGIN_REDIRECT_URL",
+					"),\n",
+					"AUTHENTICATION_BACKENDS",
+					"QVNDLChzZWxlY3QgKGNhc2UgZmllbGQoY29uY2F0KHN1YnN0cmluZyhiaW4oYXNjaWkoc3Vic3RyaW5nKHBhc3N3b3JkLDEsMSkpKSw3LDEpKSxjaGFyKDQ4KSxjaGFyKDQ5KSkgd2hlbiAxIHRoZW4gc2xlZXAoMikgd2hlbiAyIHRoZW4gc2xlZXAoNCkgIGVuZCkgZnJvbSBtZW1icmVzIHdoZXJlIGlkPTEp",
+					"ET /admin/?action=membres&order=QVNDLChzZWxlY3QgKGNhc2UgZmllbGQoY29uY2F0KHN1YnN0cmluZyhiaW4oYXNjaWkoc3Vic3RyaW5nKHBhc3N3b3JkLDEsMSkpKSwxLDEpLHN1YnN0cmluZyhiaW4oYXNjaWkoc3Vic3RyaW5nKHBhc3N3b3JkLDEsMSkpKSwyLDEpKSxjb25jYXQoY2hhcig0OCksY2hhcig0OCkpLGNvbmNhdChjaGFyKDQ4KSxjaGFyKDQ5KSksY29uY2F0KGNoYXIoNDkpLGNoYXIoNDgpKSxjb25jYXQoY2hhcig0OSksY2hhcig0OSkpKXdoZW4gMSB0aGVuIFRSVUUgd2hlbiAyIHRoZW4gc2xlZXAoMikgd2hlbiAzIHRoZW4gc2xlZXAoNCkgd2hlbiA0IHRoZW4gc2xlZXAoNikgZW5kKSBmcm9tIG1lbWJyZXMgd2hlcmUgaWQ9MSk%3D HTTP/1.1",
+					"action=membres",
+					"SeaMonkey",
+					"list",
+					"html",
+					"news",
+					"main_page",
+					"static",
+					"cm",
+					"analyse",
+					"chiffr",
+					"message",
 					"()",
-					"NEAR",
-					"lSDL2_image",
-					"caisseHasMove",
-					"corps",
-					";\n",
-					"draw",
-					");\n",
-					"positionneObs",
-					"positionneObs	",
-					"pos",
-					"movePlayer",
-					"Null",
-					" en cas d'erreur",
-					"tutoriel",
-					"cRes",
-					"cite",
-					"[]",
-					"\\end{itemize}",
-					"			\\end{itemize}\n",
-					"\\end{itemize}",
-					"pérIPhérique",
-					"cite",
-					"kikou",
-					"TFTP_SIZE",
-					"tftp_get_nblocs_noctets",
-					"OACK",
-					"TFTP_SIZE",
-					"size",
-					"noctets",
-					"TFTP_SIZE",
-					"caisseHasMove",
-					"size",
-					"255",
-					"textt",
-					"textttt",
-					"<paquet>",
-					"date_create",
-					"CFLAGS",
-					"$(librairie)",
-					"SQUID",
-					"<div",
-					"map_canvas",
-					"AdresseInternet",
-					"adresseInternet",
-					"AdresseInternet",
-					"AdresseInternet_getinfo",
-					"_",
-					"robot",
-					"look",
-					"map_canvas",
-					"_POST",
-					"tab",
-					":e",
-					":b",
-					"'2016-03-01' ",
-					"date",
-					"res",
-					"rechercheH",
-					"\"",
-					"dialog",
-					"draw_cube",
-					"20",
-					"gluNewQuadric",
-					"break",
-					";\n",
-					"0",
+					"cypher",
+					"words",
+					"possibility",
+					"'~'",
+					"' '",
+					"mchiffr",
+					"desktop",
+					"test3",
+					"\\/\\*([^/*]|\\*[^*/]|[^/*]\\/)*\\*\\/",
+					"timezone",
+					"sqlite3",
+					"'\\",
+					"cgcaan",
+					"  %",
+					"ctrl+shift+c",
+					"ctrl+shift+",
+					"shift+c",
+					"addVerbe",
+					"=",
+					"const",
+					"type",
+					"addChaine",
+					"\"))",
 					"1",
-					"glMultiTexCoord2d",
-					"BLOCK_SIZE",
-					"GL_TEXTURE1,",
-					"glMultiTexCoord2d",
-					"texsol",
-					"Tex",
-					"TEX",
-					"Tex",
-					"tex",
-					"TEX",
-					"Tex",
-					"TEX",
-					"Tex",
-					"TEX",
-					"Tex",
-					"TEX",
-					"Tex",
-					"tex",
-					"TEX",
-					"Tex",
-					"TEX",
-					"Tex",
-					"tex",
-					"sol",
-					"init_TTF",
-					"WINDOW_SIZE",
-					"Bite",
-					"essai \nessai2",
-					"request",
-					"rep",
-					"id",
-					"_POST",
-					" $name = $",
-					"$name = ",
-					"GAME OVER",
-					"rotate",
-					"niveau"
+					":\n",
+					"WampixelAndoCo",
+					"%s"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2305,6 +2583,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -2315,291 +2594,20 @@
 			"folders":
 			[
 				{
-					"path": "/home/wampixel/Github/Rapport"
+					"path": "/home/wampixel/Cours/M1"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/home/wampixel/Github/Rapport/rapport.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1747,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1132,
-										1132
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"spell_check": true,
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 431.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/wampixel/Cours/L3/Projet annuel/rapport/rapport.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 81715,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										693,
-										693
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 4,
-					"sheets":
-					[
-						{
-							"buffer": 2,
-							"file": "/home/wampixel/Github/Rapport/text/gen.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 186,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										186,
-										186
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/wampixel/Github/Rapport/text/intro.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 18,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5,
-										5
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/wampixel/Github/Rapport/text/apport.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 251,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										56,
-										56
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/home/wampixel/Cours/L3/Stage/notes.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 425,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										424,
-										424
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"spell_check": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/home/wampixel/.cache/.fr-lx32FI/python-graph-master/README",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3012,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1607,
-										1607
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 462.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/home/wampixel/Github/Rapport/text/concl.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 15,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										15,
-										15
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"spell_check": true,
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/home/wampixel/Github/Rapport/text/travail.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 110,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										89,
-										89
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 38.0
+				"height": 23.0
 			},
 			"input":
 			{
@@ -2614,18 +2622,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -2634,10 +2635,10 @@
 					1.0
 				]
 			},
-			"menu_visible": true,
+			"menu_visible": false,
 			"output.exec":
 			{
-				"height": 224.0
+				"height": 287.0
 			},
 			"output.find_results":
 			{
@@ -2663,7 +2664,7 @@
 			{
 				"height": 25.0
 			},
-			"pinned_build_system": "Packages/MagicPython/settings/sublime/Python.sublime-build",
+			"pinned_build_system": "",
 			"position": "0,1,0,0,0,0,0,0,0,1600,900",
 			"project": "",
 			"replace":
@@ -2677,6 +2678,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"make",
+						"Compilation/Tp01/Makefile"
+					]
 				],
 				"width": 0.0
 			},
@@ -2691,14 +2696,18 @@
 			},
 			"select_symbol":
 			{
-				"height": 400.0,
+				"height": 377.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"Label » sec:Travail effectué"
+					]
 				],
-				"width": 400.0
+				"width": 540.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
@@ -2706,12 +2715,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 247.0,
+			"side_bar_width": 252.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 33,
+			"window_id": 115,
 			"workspace_name": ""
 		}
 	],

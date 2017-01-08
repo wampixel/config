@@ -17,6 +17,15 @@ class ClangAutoComplete(sublime_plugin.EventListener):
 	def to_bool(self, str_flag):
 		return str_flag == "true"
 
+	# Returns an array of string which correspond to each line of the stdout of the shell command
+	def run_shell_command(self, cmd=""):
+		try:
+			output = subprocess.check_output(cmd, shell=True)
+			output_text = ''.join(map(chr,output))
+		except subprocess.CalledProcessError as e:
+			output_text = e.output.decode("utf-8")
+		return output_text.splitlines()
+
 	def load_settings(self):
 		# Only load the settings if they have changed
 		settings_modified_time = path.getmtime(
@@ -58,17 +67,29 @@ class ClangAutoComplete(sublime_plugin.EventListener):
 		self.include_dirs     = settings.get("include_dirs")
 		self.clang_binary     = settings.get("clang_binary")
 		self.std_flag         = settings.get("std_flag")
+		self.debug            = self.to_bool(settings.get("debug"))
 
 		if (not self.std_flag):
 			self.std_flag = "-std=c++11"
 			if (self.verbose):
 				print("set std_flag to default: '{}'".format(self.std_flag))
 
+		# Automatically find standard header files on OS X / Linux systems
+		std_headers = []
+		if os.name != 'nt':
+			# Magical commands that will return the standard header files paths
+			c_headers_cmd=self.clang_binary + " -v -E -xc - < /dev/null 2>&1 | sed -n '/#include <...> search starts here:/{:a;n;/End of search list/b;p;ba}'"
+			cpp_headers_cmd=self.clang_binary +" -v -E -xc++ - < /dev/null 2>&1 | sed -n '/#include <...> search starts here:/{:a;n;/End of search list/b;p;ba}'"
+			std_headers = self.run_shell_command(c_headers_cmd+";"+cpp_headers_cmd)
+
 		for i, include_dir in enumerate(self.include_dirs):
 			include_dir = re.sub("(\$project_base_path)", project_path, include_dir)
 			include_dir = re.sub("(\$project_name)", project_name, include_dir)
 			include_dir = os.path.abspath(include_dir)
 			self.include_dirs[i] = include_dir
+
+		# Prepend standard headers (if anything to prepend) to the custom include directories
+		self.include_dirs = std_headers + self.include_dirs
 
 		if (self.verbose):
 			print("project_base_name = {}".format(project_name))
@@ -130,17 +151,15 @@ class ClangAutoComplete(sublime_plugin.EventListener):
 		for dir in self.include_dirs:
 			clang_includes += " -I " + dir
 
-		# Execute clang command, exit 0 to suppress error from check_output()
-		clang_cmd = clang_bin + " " + clang_flags + " " + clang_target + clang_includes
+		# Execute clang command
+		clang_cmd = clang_bin + " " + clang_flags + " " + clang_target + clang_includes + " 2>&1"
 		if (self.verbose):
 			print("clang command: {}".format(clang_cmd))
-		try:
-			output = subprocess.check_output(clang_cmd, shell=True)
-			output_text = ''.join(map(chr,output))
-		except subprocess.CalledProcessError as e:
-			output_text = e.output.decode("utf-8")
+		output_lines = self.run_shell_command(clang_cmd)
+		if (self.debug):
+			view.run_command("clangautocompleteoutputpanel", {"output_lines_arr" : output_lines})
+
 		# Process clang output, find COMPLETION lines and return them with a little formating
-		output_lines = output_text.splitlines()
 		result = []
 		longest_len = 0
 		for line in output_lines:
@@ -156,3 +175,12 @@ class ClangAutoComplete(sublime_plugin.EventListener):
 		return (result, sublime.INHIBIT_WORD_COMPLETIONS)
 
 
+# Create an output panel to display some text
+class ClangautocompleteoutputpanelCommand(sublime_plugin.TextCommand):
+	def run(self, edit, output_lines_arr):
+		output_view = self.view.window().get_output_panel("clangautocomplete")
+		output_view.set_read_only(False)
+		region = sublime.Region(0, output_view.size())
+		output_view.erase(edit, region)
+		output_view.insert(edit, 0, '\n'.join(output_lines_arr))
+		self.view.window().run_command("show_panel", {"panel": "output.clangautocomplete"})
