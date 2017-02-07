@@ -1,0 +1,20 @@
+#!/bin/bash
+if [ $# -ne 2 ]
+ then echo "nombre d'arguments incorect">&2
+fi
+if [ ! -f $1 ]
+ then echo "$0 : impossible de copier, source introuvable">&2
+fi
+if [ ! -f $2 ]
+ then cp $1 $2
+      echo "copie effectue avec succes"
+ else
+      echo "$0 : le fichier existe deja voulez vous le remplacer"
+      read r
+      if [ $r = O -o $r=o ]
+       then cp $1 $2
+            echo "copie effectue avec succes"
+       else
+            echo "copie avortee"
+      fi
+fi

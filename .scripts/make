@@ -1,0 +1,12 @@
+#!/bin/zsh
+
+if [ $# -eq 1 ]
+   then make $1 &&
+else 
+   make &&
+fi
+if [ $? -eq 2 ]
+   then mplayer ~/Musique/Regret.mp3 -slave -msglevel all=-1 -loop 1 -v 0 >> /dev/null
+else
+   mplayer ~/Musique/coye.mp3 -slave -msglevel all=-1 -loop 1 -v 0 >> /dev/null
+fi
